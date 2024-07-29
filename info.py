@@ -7,10 +7,10 @@
 import os
 from os import environ
 
-API_ID       = int(environ.get("API_ID", ""))
-API_HASH     = environ.get("API_HASH", "")
+API_ID       = int(environ.get("API_ID", "26042863"))
+API_HASH     = environ.get("API_HASH", "d4fabc00b0345cd3f0ccdc0c9b750f6e")
 BOT_TOKEN    = environ.get("BOT_TOKEN", "")
-DATABASE_URI = environ.get("DATABASE_URI", "")
-LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", ""))
-ADMIN        = int(environ.get("ADMIN", ""))
-CHANNEL      = environ.get("CHANNEL", "@VJ_Botz")
+DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://SGBACKUP4:SGBACKUP@cluster0.zjpcla3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1001994332079"))
+ADMIN        = int(environ.get("ADMIN", "919169586"))
+CHANNEL      = environ.get("CHANNEL", "")
