@@ -28,7 +28,7 @@ class script(object):
     ABOUT = """<b>╭━━━━━━━❰ [𝙰𝙱𝙾𝚄𝚃](https://t.me/VJ_Botz) ❱━━━━━━━➣
 
 ┣ ✯ Mʏ Nᴀᴍᴇ:  {}
-┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/SubhajitGhosh0'>VJ Bᴏᴛᴢ</a>
+┣ ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/SubhajitGhosh0'>SGBACKUP</a>
 ┣ ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ┣ ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a></b>"""
 
